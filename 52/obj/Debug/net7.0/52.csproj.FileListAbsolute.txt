@@ -1,0 +1,15 @@
+/Users/zaurhakurinov/Desktop/geek brains/С#/c-7/52/bin/Debug/net7.0/52
+/Users/zaurhakurinov/Desktop/geek brains/С#/c-7/52/bin/Debug/net7.0/52.deps.json
+/Users/zaurhakurinov/Desktop/geek brains/С#/c-7/52/bin/Debug/net7.0/52.runtimeconfig.json
+/Users/zaurhakurinov/Desktop/geek brains/С#/c-7/52/bin/Debug/net7.0/52.dll
+/Users/zaurhakurinov/Desktop/geek brains/С#/c-7/52/bin/Debug/net7.0/52.pdb
+/Users/zaurhakurinov/Desktop/geek brains/С#/c-7/52/obj/Debug/net7.0/52.csproj.AssemblyReference.cache
+/Users/zaurhakurinov/Desktop/geek brains/С#/c-7/52/obj/Debug/net7.0/52.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zaurhakurinov/Desktop/geek brains/С#/c-7/52/obj/Debug/net7.0/52.AssemblyInfoInputs.cache
+/Users/zaurhakurinov/Desktop/geek brains/С#/c-7/52/obj/Debug/net7.0/52.AssemblyInfo.cs
+/Users/zaurhakurinov/Desktop/geek brains/С#/c-7/52/obj/Debug/net7.0/52.csproj.CoreCompileInputs.cache
+/Users/zaurhakurinov/Desktop/geek brains/С#/c-7/52/obj/Debug/net7.0/52.dll
+/Users/zaurhakurinov/Desktop/geek brains/С#/c-7/52/obj/Debug/net7.0/refint/52.dll
+/Users/zaurhakurinov/Desktop/geek brains/С#/c-7/52/obj/Debug/net7.0/52.pdb
+/Users/zaurhakurinov/Desktop/geek brains/С#/c-7/52/obj/Debug/net7.0/52.genruntimeconfig.cache
+/Users/zaurhakurinov/Desktop/geek brains/С#/c-7/52/obj/Debug/net7.0/ref/52.dll
